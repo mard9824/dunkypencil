@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="es-MX">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="es-MX">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="es-MX">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>DunkyPencil</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://dunkypincil.azurewebsites.net/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="/wp-content/themes/twentythirteen/js/html5.js?ver=3.7.0"></script>
+	<![endif]-->
+	<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="DunkyPencil &raquo; Feed" href="http://dunkypincil.azurewebsites.net/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="DunkyPencil &raquo; RSS de los comentarios" href="http://dunkypincil.azurewebsites.net/index.php/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/dunkypincil.azurewebsites.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://dunkypincil.azurewebsites.net/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://dunkypincil.azurewebsites.net/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;display=fallback' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='/wp-content/themes/twentythirteen/genericons/genericons.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='/wp-content/themes/twentythirteen/style.css?ver=20190507' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-block-style-css'  href='/wp-content/themes/twentythirteen/css/blocks.css?ver=20190102' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='/wp-content/themes/twentythirteen/css/ie.css?ver=20150214' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://dunkypincil.azurewebsites.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://dunkypincil.azurewebsites.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://dunkypincil.azurewebsites.net/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dunkypincil.azurewebsites.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dunkypincil.azurewebsites.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.7" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentythirteen-header-css">
+		.site-header {
+		background: url(/wp-content/themes/twentythirteen/images/headers/diamond.png) no-repeat scroll top;
+		background-size: 1600px auto;
+	}
+	@media (max-width: 767px) {
+		.site-header {
+			background-size: 768px auto;
+		}
+	}
+	@media (max-width: 359px) {
+		.site-header {
+			background-size: 360px auto;
+		}
+	}
+			</style>
+	</head>
+
+<body class="home blog wp-embed-responsive single-author">
+		<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="http://dunkypincil.azurewebsites.net/" title="DunkyPencil" rel="home">
+				<h1 class="site-title">DunkyPencil</h1>
+				<h2 class="site-description"></h2>
+			</a>
+
+			<div id="navbar" class="navbar">
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<button class="menu-toggle">Menú</button>
+					<a class="screen-reader-text skip-link" href="#content" title="Ir al contenido">Ir al contenido</a>
+					<div class="menu-menu-principal-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="https://dunkypencil.000webhostapp.com/">Sube tu imagen</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="https://dle.rae.es/diccionario">Diccionario</a></li>
+</ul></div>					<form role="search" method="get" class="search-form" action="http://dunkypincil.azurewebsites.net/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form>				</nav><!-- #site-navigation -->
+			</div><!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+		
+							
+<article id="post-1" class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry">
+	<header class="entry-header">
+				<div class="entry-thumbnail">
+			<img width="604" height="270" src="/wp-content/uploads/2020/06/c180bf9e-2e09-406b-adfe-dd6f467a46ba-604x270.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />		</div>
+		
+				<h1 class="entry-title">
+			<a href="http://dunkypincil.azurewebsites.net/index.php/2020/06/21/hola-mundo/" rel="bookmark">¿Sabe usted que en México tiene un problema muy grave con la ortografía?</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://dunkypincil.azurewebsites.net/index.php/2020/06/21/hola-mundo/" title="Enlace permanente a ¿Sabe usted que en México tiene un problema muy grave con la ortografía?" rel="bookmark"><time class="entry-date" datetime="2020-06-21T13:35:08+00:00">21 junio, 2020</time></a></span><span class="categories-links">Sin categoría</span><span class="author vcard"><a class="url fn n" href="http://dunkypincil.azurewebsites.net/index.php/author/david/" title="Ver todas las entradas de David" rel="author">David</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<p>Es por ello que Desarrollamos una aplicación que por medio de una fotografía en línea, esta corrija los errores gramaticales, ya que por el medio tradicional (en clase)  no se alcanzan a reflejar dichas correcciones y es así que creamos este proyecto como tal para que los estudiantes puedan practicar su escritura y así visualizar sus errores por este medio llamado Dunky Pencil con el cual mejoraremos la calidad universal de la escritura, por este medio serán analizada y comparada para detectar si está escrita correctamente o no, mediante las tecnologías como lo es la inteligencia artificial, marching learning, cuestiom vision con el fin de que los niños pequeños puedan familiarizarse con dichas herramientas y puedan mejorar sus habilidades de una forma más dinámica. </p>
+
+
+
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://dunkypincil.azurewebsites.net/index.php/2020/06/21/hola-mundo/#comments">Un comentario por ahora</a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+			
+			
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://dunkypincil.azurewebsites.net/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Entradas recientes</h3>		<ul>
+											<li>
+					<a href="http://dunkypincil.azurewebsites.net/index.php/2020/06/21/hola-mundo/">¿Sabe usted que en México tiene un problema muy grave con la ortografía?</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Comentarios recientes</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Un comentarista de WordPress</a></span> en <a href="http://dunkypincil.azurewebsites.net/index.php/2020/06/21/hola-mundo/#comment-1">¿Sabe usted que en México tiene un problema muy grave con la ortografía?</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archivos</h3>		<ul>
+				<li><a href='http://dunkypincil.azurewebsites.net/index.php/2020/06/'>junio 2020</a></li>
+		</ul>
+			</aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
+			<div class="site-info">
+												<a href="https://es-mx.wordpress.org/" class="imprint">
+					Creado con WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript' src='http://dunkypincil.azurewebsites.net/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://dunkypincil.azurewebsites.net/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://dunkypincil.azurewebsites.net/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='/wp-content/themes/twentythirteen/js/functions.js?ver=20171218'></script>
+<script type='text/javascript' src='http://dunkypincil.azurewebsites.net/wp-includes/js/wp-embed.min.js?ver=5.2.7'></script>
+</body>
+</html>
